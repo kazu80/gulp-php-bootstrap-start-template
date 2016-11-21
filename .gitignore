@@ -2,6 +2,7 @@
 
 dist
 app/root/asset/js/bundle.*
+app/root/asset/js/css/**/*
 app/root/asset/css/**/*
 yarn.lock
 
